@@ -1,0 +1,111 @@
+ #comment_section {
+     
+     position: fixed;
+     color: ivory;
+     display: inline-block;
+     vertical-align: top;
+    left: 80%;
+    top: 10%;
+ }
+
+ .val {
+     text-transform: uppercase;
+     color: blue;
+     background-color: #7d0a343f;
+     width: 190px;
+ }
+ body {
+     /* height: 100vh;
+ width: 100vw; */
+     /* background-image: linear-gradient(#DD5E89,#F7BB97); */
+     background-image: url(images/abnew.png);
+     background-size: cover;
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+   color: ivory;
+ }
+
+ #moto {
+     text-transform: uppercase;
+     margin-left: 25%;
+ }
+
+ main {
+     display: inline-block;
+     width: 50%;
+     margin-left: 10%;
+ }
+
+ #k1 {
+     border-radius: 7px;
+     height: 100px;
+     width: 30px;
+     background-color: #cb0f4b77;
+     padding: 2px;
+     position: fixed;
+     top: 45%;
+     left: 1%;
+    
+ }
+
+ #k2 {
+    
+     height: 100vh;
+     width: 30px;
+     background-color: #3a0420a2;
+     padding: 2px;
+     position: fixed;
+    top: 0%;
+     left: 0%;
+ }
+ #nav1 {
+    background-color: black;
+    height: 25px;
+    width: 59px;
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 10px;
+    border: 2px solid black;
+}
+
+#nav2 {
+    height: 25px;
+    background-color:black;
+    display: inline-block;
+    width: 127px;
+    padding-top: 5px;
+    padding-left: 20px;
+    border: 2px solid black;
+}
+
+#nav3 {
+    height: 25px;
+    background-color:black;
+    width: 96px;
+    display: inline-block;
+    padding-top: 5px;
+    border: 2px solid black;
+    padding-left: 11px;
+    
+    
+    
+}
+
+nav{
+    margin-left: 70%;
+    font-family: fantasy;
+}
+a:link{
+    text-decoration: none;
+}
+nav a{
+    color: rgb(0, 0, 0);
+}
+#bt{
+    height: 20px;
+    width: 100px;
+   background-color: black;
+   border-radius: 5px;
+   padding-left: 10px;
+   margin-left: 45%;
+}
